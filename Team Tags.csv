@@ -1,15 +1,15 @@
-Team,Tag
-Illinois ,IUC
-Indiana ,IUB
-Iowa,IWA
-Maryland,MLD
-Michigan,MGN
-Michigan St.,MGS
-Minnesota,UMN
-Nebraska,UNL
-Northwestern,NWN
-Ohio St.,OSU
-Penn State ,PSU
-Purdue,PUR
-Rutgers,RUT
-Wisconsin,UWM
+Team,Tag,Capital,,,,,
+Illinois ,IUC,2519,916,2520,,,
+Indiana ,IUB,2523,2524,,,,
+Iowa,IWA,2513,904,905,,,
+Maryland,MLD,953,2553,2554,957,,
+Michigan,MGN,944,2521,987,,,
+Michigan St.,MGS,2522,945,911,,,
+Minnesota,UMN,2517,908,2512,2016,910,
+Nebraska,UNL,903,907,901,2508,,
+Northwestern,NWN,915,917,,,,
+Ohio St.,OSU,2525,946,947,948,,
+Penn State ,PSU,2557,954,2555,959,2556,955
+Purdue,PUR,942,943,,,,
+Rutgers,RUT,2639,962,956,,,
+Wisconsin,UWM,913,2518,912,914,,
