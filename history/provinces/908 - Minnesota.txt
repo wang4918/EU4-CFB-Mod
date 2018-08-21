@@ -1,0 +1,20 @@
+#908 - Minnesota
+owner = UMN
+controller = UMN
+add_core = UMN
+is_city = yes
+
+
+culture = american
+religion = catholic
+capital = "Dakota"
+trade_goods = fur
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+
+
+
+discovered_by = north_american
+
